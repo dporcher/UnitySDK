@@ -125,6 +125,7 @@ namespace PlayFab.PlayStreamModels
         public string PurchaseId;
         public string ItemId;
         public string CatalogVersion;
+        public string StoreId;
         public string CurrencyCode;
         public int Quantity;
         public uint UnitPrice;
@@ -452,6 +453,7 @@ namespace PlayFab.PlayStreamModels
         public string PurchaseId;
         public string ItemId;
         public string CatalogVersion;
+        public string StoreId;
         public string CurrencyCode;
         public int Quantity;
         public uint UnitPrice;
